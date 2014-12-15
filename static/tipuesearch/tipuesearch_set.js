@@ -19,4 +19,3 @@ var tipuesearch_stem = {"words": [
      {"word": "javascript", "stem": "script"},
      {"word": "javascript", "stem": "js"}
 ]};
-
